@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BinaryNumbers/static/css/main.7610e0eb.chunk.css",
+    "main.js": "/BinaryNumbers/static/js/main.0c3fe7c5.chunk.js",
+    "main.js.map": "/BinaryNumbers/static/js/main.0c3fe7c5.chunk.js.map",
+    "runtime-main.js": "/BinaryNumbers/static/js/runtime-main.e1471674.js",
+    "runtime-main.js.map": "/BinaryNumbers/static/js/runtime-main.e1471674.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/BinaryNumbers/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4eda7785.chunk.js": "/BinaryNumbers/static/js/2.4eda7785.chunk.js",
+    "static/js/2.4eda7785.chunk.js.map": "/BinaryNumbers/static/js/2.4eda7785.chunk.js.map",
+    "index.html": "/BinaryNumbers/index.html",
+    "precache-manifest.3f4602109ee08eabc082fa60847c44c3.js": "/BinaryNumbers/precache-manifest.3f4602109ee08eabc082fa60847c44c3.js",
+    "service-worker.js": "/BinaryNumbers/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/BinaryNumbers/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.7610e0eb.chunk.css.map": "/BinaryNumbers/static/css/main.7610e0eb.chunk.css.map",
+    "static/js/2.4eda7785.chunk.js.LICENSE.txt": "/BinaryNumbers/static/js/2.4eda7785.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1471674.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4eda7785.chunk.js",
+    "static/css/main.7610e0eb.chunk.css",
+    "static/js/main.0c3fe7c5.chunk.js"
+  ]
+}
